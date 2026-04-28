@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Algorithm Analyzer & Complexity Optimizer
 
 <div align="center">

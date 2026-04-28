@@ -320,24 +320,9 @@ DSA_MODEL/
 4. Push (`git push origin feature/amazing`)
 5. Open Pull Request
 
----
-
-## 👨‍💻 Author
-
-**Sanidhya Verma**
-
-[![GitHub](https://img.shields.io/badge/GitHub-sugaredcookie-181717?style=flat-square&logo=github)](https://github.com/sugaredcookie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanidhya%20Verma-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sanidhya-verma)
+# ⭐ Show Your Support
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## ⭐ Show Your Support
 
 If this project helped you understand algorithm analysis or microservices architecture:
 
@@ -359,4 +344,3 @@ If this project helped you understand algorithm analysis or microservices archit
 **⭐ If you like this project, don't forget to star it! ⭐**
 
 </div>
-```
